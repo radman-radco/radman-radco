@@ -56,7 +56,7 @@ I run my own home lab on a self-hosted server. This is where I learned Linux adm
 
 ---
 
-## Contact
+## Contact 
 
 - [radyai.com](https://radyai.com)
 - [code.radman@gmail.com](mailto:code.radman@gmail.com)
