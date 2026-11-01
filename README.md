@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/t4BQqC7B/1784060689320.jpg" width="100%" hight:"60%" alt="Banner">
+<img src="https://i.postimg.cc/t4BQqC7B/1784060689320.jpg" width="100%" hight="60%" alt="Banner">
 # Hey I am Radman!
 
 Self-taught developer, 16, based in Nottingham, UK. I started building things at age 9 and have been going ever since — mostly solo, mostly from scratch.
