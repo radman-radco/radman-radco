@@ -1,4 +1,4 @@
-![Custom Image](https://i.postimg.cc/t4BQqC7B/1784060689320.jpg)
+<img src="https://i.postimg.cc/t4BQqC7B/1784060689320.jpg" width="100%" alt="Banner">
 # Hey I am Radman!
 
 Self-taught developer, 16, based in Nottingham, UK. I started building things at age 9 and have been going ever since — mostly solo, mostly from scratch.
